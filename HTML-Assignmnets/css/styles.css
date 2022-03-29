@@ -1,0 +1,101 @@
+#q1-body{
+    background-color: yellow;
+}
+
+#q1-h1{
+    background-color: red;
+    font-size: 35px;
+    font-family: Times;
+}
+
+#q1-p{
+    background-color: green;
+    font-size: 25px;
+    font-family: Times;
+}
+
+#image-1{
+    border: 2px solid black;
+    width: 60px;
+    height: 60px;
+    
+}
+
+#q2-label-1{
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Times;
+}
+
+#image-2{
+    
+    width: 60px;
+    height: 60px;
+}
+
+#q2-label-2{
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Times;
+}
+
+#q3-list-1{
+    font-family: Times;
+}
+#q3-list-2{
+    list-style-type: upper-alpha;
+    font-family: Times;
+}
+#q3-list-3{
+    list-style-type: lower-alpha;
+    font-family: Times;
+}
+#q3-list-4{
+    list-style-type: upper-roman;
+    font-family: Times;}
+#q3-list-5{
+    list-style-type: lower-roman;
+    font-family: Times;
+}
+
+label{
+    font-size: 20px;
+    font-family: Times;
+    font-weight: bold;
+}
+div{
+    height: 500px;
+    width: 500px;
+    background-color: powderblue;
+}
+
+#q8-topdiv{
+    height: 40%;
+    width: 500px;
+    background-color: red;
+}
+
+#q8-topright{
+    margin-left: 250px;
+    width: 250px;
+    height: 100%;
+    background-color: blue;
+}
+
+#q8-rightdiv{
+    width: 250px;
+    margin-top: 0px;
+    margin-left: 250px;
+}
+
+#q8-leftdiv{
+    width: 50%;
+    background-color: gray
+}
+
+
+
+
+
+
+
