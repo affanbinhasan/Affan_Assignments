@@ -1,0 +1,22 @@
+#p1{
+    border: 5px solid black;
+    background-color: powderblue;
+}
+#p2{
+    border: 3px solid black;
+    background-color: powderblue;
+}
+#p3{
+    border: 1px solid black;
+    background-color: powderblue;
+}
+#p4{
+    
+    background-color: powderblue;
+}
+body{
+    font-family: Times;
+}
+div{
+    border: 1px solid black;
+}

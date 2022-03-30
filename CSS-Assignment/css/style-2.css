@@ -1,0 +1,15 @@
+
+h2{
+    text-decoration: line-through;
+
+}
+h3{
+    text-decoration: underline;
+}
+
+
+body{
+    font-weight: bold;
+    font-family: Times;
+    background-color: powderblue;
+}
